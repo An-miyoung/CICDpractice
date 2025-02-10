@@ -1,3 +1,3 @@
 export const getCoolName = () => {
-  return "CoolName";
+  return "VeryCoolName";
 };
